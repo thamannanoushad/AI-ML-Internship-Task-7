@@ -7,5 +7,5 @@ This project uses Support Vector Machines (SVM) to classify breast tumors as ben
 * Trained an SVM with linear and RBF kernel
 * Visualised the decision boundary
 * Tuned the hyperparameter
-* Used cross-validation,accuracy,confusion matrix to evaluate the model
+* Used cross-validation, accuracy, confusion matrix to evaluate the model
   
